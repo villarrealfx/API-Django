@@ -7,4 +7,3 @@ class EcommerceConfig(AppConfig):
 
     def ready(self):
         import ecommerce.signals
-

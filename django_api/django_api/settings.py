@@ -46,7 +46,8 @@ INSTALLED_APPS = [
     'rest_framework', #DRF package
     'rest_framework.authtoken', #Used to enable token authentication
 
-    'core',
+    'core',  # app core
+    'ecommerce'   # app ecommerce
 ]
 
 MIDDLEWARE = [

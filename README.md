@@ -37,7 +37,7 @@ Este repositorio es de acceso **público** se recomienda:
 
 ## Consideraciones adicionales:
 Ejecutar Pruebas unitarias.
-1. En la raiz del proyecto donde se encuentra el archivo manage.py correr el siguiente código `python manage.py test`esto correrá las pruebas unitarias de los archivos `tests.py`ubicados en cada una de las apis.
+1. En la raiz del proyecto donde se encuentra el archivo manage.py correr el siguiente código `python manage.py test`esto correrá las pruebas unitarias de los archivos `tests.py`ubicados en cada una de las apps.
 
 Limitaciones.
 1. La presente API esta realizada para verificar la funcionabilidad de algunos módulos de `Django Rest Framework, drf-yasg` etc por lo que su funcionalidad está limitada a estos.
